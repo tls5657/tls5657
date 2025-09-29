@@ -10,15 +10,9 @@
 ---
 
 ## 🛠️ 보유 기술 (Skills)
-
-AI 시스템 개발 및 프로젝트 경험을 바탕으로 예상되는 기술 스택입니다. 필요한 뱃지(badge)로 수정하거나 추가해 주세요.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-092E20?style=flat-square&logo=langchain&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
