@@ -1,6 +1,6 @@
 <div align="center">
-<h1>👋 동아대학교 AI학과 신성준입니다.</h1>
-<p>AI 서비스를 기획하고 개발하는 주니어 개발자입니다.</p>
+<h1> Introduction.</h1>
+<p>안녕하세요! 동아대학교 AI학과 신성준입니.</p>
 <div>
 <a href="mailto:cyd1642@naver.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-cyd1642%2540naver.com-D14836%3Fstyle%3Dflat-square%26logo%3DGmail%26logoColor%3Dwhite"/></a>
 <a href="https://github.com/tls5657"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-tls5657-181717%3Fstyle%3Dflat-square%26logo%3DGitHub%26logoColor%3Dwhite"/></a>
