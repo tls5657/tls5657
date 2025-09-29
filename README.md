@@ -35,14 +35,14 @@
 
 ## 🚀 주요 프로젝트 (Key Projects)
 
-* **[RAG 기반 산업안전보건 챗봇]([https://github.com/tls5657/RAG_Safety_Chatbot_Repo_Link](https://github.com/tls5657/WESOLUTION_RAG_LLM))**
+* **[RAG 기반 산업안전보건 챗봇]([https://github.com/tls5657/WESOLUTION_RAG_LLM])**
     * 산업안전보건 법령 및 위험성평가 자동화 챗봇 개발
-* **[건설 현장 TBM 음성인식 시스템]([https://github.com/tls5657/TBM_ASR_Summary_Repo_Link](https://github.com/tls5657/WESOLUTION-TBM-Summarizer))**
+* **[건설 현장 TBM 음성인식 시스템]([https://github.com/tls5657/WESOLUTION-TBM-Summarizer])**
     * TBM (Tool Box Meeting) 음성인식 기반 회의록 자동 요약 시스템 구축
 * **LLM 기반 산업재해 뉴스 자동 분석 시스템**
     * 산업재해 뉴스 자동 분석 및 이메일 뉴스레터 발송 시스템 개발
 * **AI 기반 낙동강 생태 도감 서비스 개발**
-* **[객체 탐지 모델 연구]([https://github.com/tls5657/Object_Detection_BDD100K_Repo_Link](https://github.com/tls5657/Object-Detection-Research))**
+* **[객체 탐지 모델 연구]([https://github.com/tls5657/Object-Detection-Research])**
     * BDD100K 데이터셋 기반 객체 탐지 모델 연구 수행
 * **제5회 디지털 신기술 아이디어 경진대회**
     * 스마트 담배꽁초 쓰레기통 아이디어 구상
