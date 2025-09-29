@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+<p>안녕하세요! 동아대학교 AI학과 신성준입니다.</p>
 <a href="mailto:cyd1642@naver.com"><img src="https://img.shields.io/badge/Email-cyd1642%40naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/tls5657"><img src="https://img.shields.io/badge/GitHub-tls5657-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div>
