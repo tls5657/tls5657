@@ -42,7 +42,7 @@
     * TBM (Tool Box Meeting) 음성인식 기반 회의록 자동 요약 시스템 구축
 * **LLM 기반 산업재해 뉴스 자동 분석 시스템**
     * 산업재해 뉴스 자동 분석 및 이메일 뉴스레터 발송 시스템 개발
-* **AI 기반 낙동강 생태 도감 서비스 개발(https://github.com/tls5657/my-files/blob/dee1e0b483851b4f79a92609c6d02a2bfc99c5aa/%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%8F%AC%EB%9F%BC_2024.pdf)**
+* **[AI 기반 낙동강 생태 도감 서비스 개발](https://github.com/tls5657/my-files/blob/dee1e0b483851b4f79a92609c6d02a2bfc99c5aa/%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%8F%AC%EB%9F%BC_2024.pdf)**
 * **[객체 탐지 모델 연구](https://github.com/tls5657/Object-Detection-Research)**
     * BDD100K 데이터셋 기반 객체 탐지 모델 연구 수행
 * **제5회 디지털 신기술 아이디어 경진대회**
