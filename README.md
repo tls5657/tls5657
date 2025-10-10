@@ -45,7 +45,7 @@
 * **[AI 기반 낙동강 생태 도감 서비스 개발](https://github.com/tls5657/my-files/blob/dee1e0b483851b4f79a92609c6d02a2bfc99c5aa/%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%8F%AC%EB%9F%BC_2024.pdf)**
 * **[객체 탐지 모델 연구](https://github.com/tls5657/Object-Detection-Research)**
     * BDD100K 데이터셋 기반 객체 탐지 모델 연구 수행
-* **제5회 디지털 신기술 아이디어 경진대회**
+* **[제5회 디지털 신기술 아이디어 경진대회](https://github.com/tls5657/myfiles/blob/ff68a353e2ff77a1e0a914f4654fefb106e4e190/2024%20%EB%94%94%EC%A7%80%ED%84%B8%EC%8B%A0%EA%B8%B0%EC%88%A0%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.jpg)**
     * 스마트 담배꽁초 쓰레기통 아이디어 구상
    
 
