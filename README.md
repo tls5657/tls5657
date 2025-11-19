@@ -61,6 +61,9 @@
 * **기술상** | 제1회 전국 대학 소프트웨어 성과 공유포럼 (2024)
     * *주관: 동아대 소프트웨어혁신센터*
 
+* **장려상** | [2025 FairDay 졸업작품전](https://github.com/tls5657/Object-Detection-Research)
+    * *주관: 동아대학교*
+
 * **금상** | [2025 동아 해커톤](https://github.com/tls5657/2025_DongA_Hackathon/blob/6365283eda1a1f5277a544232ac2f294fa6daed5/2025_DonA_Hackathon.png)
     * *주관: 동아대학교*
 
