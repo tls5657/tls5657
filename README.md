@@ -37,11 +37,11 @@
 
 ## 🚀 주요 프로젝트 (Key Projects)
 
-* **[RAG 기반 산업안전보건 챗봇](https://github.com/tls5657/WESOLUTION_RAG_LLM)**
+* **[RAG 기반 산업안전보건 챗봇]**
     * 산업안전보건 법령 및 위험성평가 자동화 챗봇 개발
-* **[건설 현장 TBM 음성인식 시스템](https://github.com/tls5657/WESOLUTION-TBM-Summarizer)**
+* **[건설 현장 TBM 음성인식 시스템](https://github.com/tls5657/my-files/blob/a4fa2ca03935c031e2464abe2768428ef0a8b761/TBMSTT%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.png)**
     * TBM (Tool Box Meeting) 음성인식 기반 회의록 자동 요약 시스템 구축
-* **[LLM 기반 산업재해 뉴스 자동 분석 시스템](https://github.com/tls5657/Safety_Letter)**
+* **[LLM 기반 산업재해 뉴스 자동 분석 시스템](https://github.com/tls5657/my-files/blob/a4fa2ca03935c031e2464abe2768428ef0a8b761/%EC%95%88%EC%A0%84%EB%A0%88%ED%84%B0%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.png)**
     * 산업재해 뉴스 자동 분석 및 이메일 뉴스레터 발송 시스템 개발
 * **[AI 기반 낙동강 생태 도감 서비스 개발](https://github.com/tls5657/my-files/blob/dee1e0b483851b4f79a92609c6d02a2bfc99c5aa/%EC%84%B1%EA%B3%BC%EA%B3%B5%EC%9C%A0%ED%8F%AC%EB%9F%BC_2024.pdf)**
     * 이미지 분류 모델 파인튜닝 진행
@@ -68,6 +68,6 @@
 * **금상** | [2025 동아 해커톤](https://github.com/tls5657/2025_DongA_Hackathon/blob/6365283eda1a1f5277a544232ac2f294fa6daed5/2025_DonA_Hackathon.png)
     * *주관: 동아대학교*
 
-* **은상** | [2025 현장실습 수기공모전](https://github.com/tls5657/2025_DongA_Hackathon/blob/6365283eda1a1f5277a544232ac2f294fa6daed5/2025_DonA_Hackathon.png)
+* **은상** | [2025 현장실습 수기공모전](https://github.com/tls5657/my-files/blob/a4fa2ca03935c031e2464abe2768428ef0a8b761/2025_%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5%EC%88%98%EA%B8%B0%EA%B3%B5%EB%AA%A8%EC%A0%841.jpg)
     * *주관: 동아대학교*
 ---
