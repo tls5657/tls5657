@@ -68,4 +68,6 @@
 * **금상** | [2025 동아 해커톤](https://github.com/tls5657/2025_DongA_Hackathon/blob/6365283eda1a1f5277a544232ac2f294fa6daed5/2025_DonA_Hackathon.png)
     * *주관: 동아대학교*
 
+* **은상** | [2025 현장실습 수기공모전](https://github.com/tls5657/2025_DongA_Hackathon/blob/6365283eda1a1f5277a544232ac2f294fa6daed5/2025_DonA_Hackathon.png)
+    * *주관: 동아대학교*
 ---
