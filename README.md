@@ -37,7 +37,7 @@
 
 ## 🚀 주요 프로젝트 (Key Projects)
 
-* **[RAG 기반 산업안전보건 챗봇]**
+* **[RAG 기반 산업안전보건 챗봇](https://github.com/tls5657/Safety_RAG_LLM)**
     * 산업안전보건 법령 및 위험성평가 자동화 챗봇 개발
 * **[건설 현장 TBM 음성인식 시스템](https://github.com/tls5657/my-files/blob/a4fa2ca03935c031e2464abe2768428ef0a8b761/TBMSTT%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.png)**
     * TBM (Tool Box Meeting) 음성인식 기반 회의록 자동 요약 시스템 구축
