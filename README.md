@@ -31,7 +31,7 @@
 
 ## 🎓 학력 (Education)
 
-* **동아대학교 AI학과 졸업(Mar 2020 ‑ Feb 2026) ** (Dong-A University, Major in Artificial Intelligence)
+* **동아대학교 AI학과 졸업(Mar 2020 ‑ Feb 2026)** (Dong-A University, Major in Artificial Intelligence)
 
 ---
 
