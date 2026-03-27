@@ -1,4 +1,4 @@
-# Hi, I'm Yuseong Joo
+# Hi, I'm SeongJun Shin
 
 AI Engineer focused on production LLM/VLM systems, document intelligence, OCR, retrieval, and local inference serving.
 
