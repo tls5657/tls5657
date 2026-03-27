@@ -1,4 +1,4 @@
-# Hi, I'm SeongJun Shin
+﻿# Hi, I'm SeongJun Shin
 
 AI Engineer focused on production LLM/VLM systems, document intelligence, OCR, retrieval, and local inference serving.
 
@@ -90,7 +90,7 @@ B.S. in Artificial Intelligence
 ## Awards / Achievements
 
 - Excellence Award, Digital New Technology Idea Contest (2024)
-- Technology Award, Software?�果 Sharing Forum (2024)
+- Technology Award, Software Sharing Forum (2024)
 - Encouragement Award, Fair Day Graduation Project (2025)
 - Gold Prize, 2025 Dong-A Hackathon
 - Grand Prize, 2025 Field Practice Essay Contest
@@ -99,4 +99,3 @@ B.S. in Artificial Intelligence
 
 - Email: cyd1642@naver.com
 - GitHub: https://github.com/tls5657
-
