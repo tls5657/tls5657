@@ -66,12 +66,6 @@ Repository: [Object-Detection-Research](https://github.com/tls5657/Object-Detect
 
 Research-oriented work around object detection model improvement and experimentation.
 
-### 4. Voice Assistant
-
-Repository: [voice-assistant](https://github.com/tls5657/voice-assistant)
-
-Built a local voice-assistant system combining speech, language, and application control flows.
-
 ## Earlier Projects / Supporting Materials
 
 These projects are older than my current production LLM/VLM work, but I keep them here as supporting material because they show the progression of my applied AI work.
