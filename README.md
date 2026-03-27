@@ -103,7 +103,7 @@ B.S. in Artificial Intelligence
 ## Awards / Achievements
 
 - [Excellence Award, Digital New Technology Idea Contest (2024)](https://github.com/tls5657/my-files/blob/main/2024%20%EB%94%94%EC%A7%80%ED%84%B8%EC%8B%A0%EA%B8%B0%EC%88%A0%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.png)
-  - hosted by NIPA
+  - organized by the Information and Communications Industry Promotion Institute
 - Technology Award, Software Sharing Forum (2024)
   - hosted by Dong-A University Software Innovation Center
 - [Encouragement Award, Fair Day Graduation Project (2025)](https://github.com/tls5657/Object-Detection-Research)
