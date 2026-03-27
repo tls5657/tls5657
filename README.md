@@ -87,6 +87,14 @@ Built a local voice-assistant system combining speech, language, and application
 B.S. in Artificial Intelligence  
 2020 - 2026
 
+## Awards / Achievements
+
+- Excellence Award, Digital New Technology Idea Contest (2024)
+- Technology Award, Software成果 Sharing Forum (2024)
+- Encouragement Award, Fair Day Graduation Project (2025)
+- Gold Prize, 2025 Dong-A Hackathon
+- Grand Prize, 2025 Field Practice Essay Contest
+
 ## Contact
 
 - Email: cyd1642@naver.com
